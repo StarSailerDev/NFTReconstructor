@@ -1,0 +1,45 @@
+{
+    "dna": "358ba9843b4164e0cc83943b0c70c8a3ea1d9eb3",
+    "name": "test new name #6",
+    "description": "",
+    "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/0.png",
+    "edition": 6,
+    "date": 1650376199091,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White_Background"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Skin1"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Fit9"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Na_Mouth"
+        },
+        {
+            "trait_type": "Expressions",
+            "value": "Crying"
+        },
+        {
+            "trait_type": "Eyeglasses",
+            "value": "Eye_Glass"
+        },
+        {
+            "trait_type": "Bandana",
+            "value": "Lakers"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Froggy"
+        }
+    ],
+    "compiler": "Major"
+}

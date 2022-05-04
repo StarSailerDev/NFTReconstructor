@@ -1,0 +1,10 @@
+{
+  "name": "NFTReconstructor",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "replace": "^1.2.1",
+    "sharp": "^0.30.4"
+  }
+}

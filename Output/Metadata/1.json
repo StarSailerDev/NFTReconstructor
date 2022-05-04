@@ -1,0 +1,45 @@
+{
+    "dna": "7e5aa6b78439d85891c5ee5f03a1f95630090782",
+    "name": "test new name #1",
+    "description": "",
+    "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1.pnghttps://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1.pnghttps://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1.png",
+    "edition": 1,
+    "date": 1650376199616,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "GreenBlue_Background"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Skin4"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Fit6"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigaratte_Mouth"
+        },
+        {
+            "trait_type": "Expressions",
+            "value": "Closed_Eyes"
+        },
+        {
+            "trait_type": "Eyeglasses",
+            "value": "Thug_Life"
+        },
+        {
+            "trait_type": "Bandana",
+            "value": "Lilac_Bandana"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Halo"
+        }
+    ],
+    "compiler": "Major"
+}

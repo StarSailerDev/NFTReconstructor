@@ -1,0 +1,452 @@
+[
+  {
+    "dna": "358ba9843b4164e0cc83943b0c70c8a3ea1d9eb3",
+    "name": "ill Face Mask #6",
+    "description": "",
+    "image": "",
+    "edition": 6,
+    "date": 1650376199091,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin1"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Na_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Crying"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Eye_Glass"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Lakers"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Froggy"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "7e5aa6b78439d85891c5ee5f03a1f95630090782",
+    "name": "ill Face Mask #1",
+    "description": "",
+    "image": "",
+    "edition": 1,
+    "date": 1650376199616,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreenBlue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin4"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigaratte_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Closed_Eyes"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Thug_Life"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Lilac_Bandana"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "6d3dae509769cae79850aad17ab2d3751a9e35c9",
+    "name": "ill Face Mask #4",
+    "description": "",
+    "image": "",
+    "edition": 4,
+    "date": 1650376200144,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin6"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigaratte_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Crying"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Cop_Glasses"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Lilac_Bandana"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Froggy"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "121ff5c02d60645a58eaedd4696132e817a2c7b3",
+    "name": "ill Face Mask #5",
+    "description": "",
+    "image": "",
+    "edition": 5,
+    "date": 1650376201761,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Swirl_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin6"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wavy_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Crying"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Fire_Eyes"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Red_Bandana"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Firefighter"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "f342646c49d04224b4b1e2d33f4a03c37f3584a3",
+    "name": "ill Face Mask #3",
+    "description": "",
+    "image": "",
+    "edition": 3,
+    "date": 1650376202495,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin4"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pipe_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "White_X_Eyes"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Cop_Glasses"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Jap_Headband"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Firefighter"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "19407a67297413e1455792c3b410ec21be2d55b6",
+    "name": "ill Face Mask #9",
+    "description": "",
+    "image": "",
+    "edition": 9,
+    "date": 1650376203045,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreenBlue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin1"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pipe_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Worried"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Cop_Glasses"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Jap_Headband"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "212950b1aba0df943992c8d5bf6e1aa1b34486d9",
+    "name": "ill Face Mask #7",
+    "description": "",
+    "image": "",
+    "edition": 7,
+    "date": 1650376203548,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreenBlue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin6"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Not_Sure_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Pleased"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Thug_Life"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Rainbow_Bandana"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Halo"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "e1ef5999c6e1e60f6e042905cfa587e104f6e4c3",
+    "name": "ill Face Mask #2",
+    "description": "",
+    "image": "",
+    "edition": 2,
+    "date": 1650376204128,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Baby_Blue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin3"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Cigaratte_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "Heart_Eyes"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Cop_Glasses"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Baby_Blue"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Earmuffs"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "fcf62f896f054c250e10c7bf39588b9969f2cef7",
+    "name": "ill Face Mask #10",
+    "description": "",
+    "image": "",
+    "edition": 10,
+    "date": 1650376204694,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreenBlue_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin2"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Wavy_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "White_X_Eyes"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Cop_Glasses"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Jap_Headband"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Froggy"
+      }
+    ],
+    "compiler": "Major"
+  },
+  {
+    "dna": "937a4e5248b39d0dae25cbb26caee6fb15f506cb",
+    "name": "ill Face Mask #8",
+    "description": "",
+    "image": "",
+    "edition": 8,
+    "date": 1650376205299,
+    "Description": "",
+    "Website": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White_Background"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Skin6"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "Fit7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Pipe_Mouth"
+      },
+      {
+        "trait_type": "Expressions",
+        "value": "X_Eyes"
+      },
+      {
+        "trait_type": "Eyeglasses",
+        "value": "Eye_Glass"
+      },
+      {
+        "trait_type": "Bandana",
+        "value": "Jap_Headband"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Froggy"
+      }
+    ],
+    "compiler": "Major"
+  }
+]
